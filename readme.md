@@ -36,8 +36,8 @@ Flow:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone 
-cd 
+git clone https://github.com/Basant2206/Blog_Agent.git
+cd Blog_Agent
 
 
 
