@@ -1,0 +1,18 @@
+# Core LLM + Workflow Frameworks
+langchain
+langgraph
+langchain-community
+langchain-groq
+ddgs
+
+
+# Free Research Tools
+duckduckgo-search
+wikipedia
+
+# Environment Management
+python-dotenv
+
+# Optional but for smoother running
+requests
+tqdm
